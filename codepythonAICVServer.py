@@ -1,8 +1,4 @@
-# ============================================================================
-# ADEEB AI VISION - Multi-Device Edition
-# Real-time person and vehicle detection, tracking, counting, and line crossing
-# Run: python adeeb_ai_vision_modified.py
-# ============================================================================
+
 
 import base64
 import math
